@@ -1,0 +1,133 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+ENV/
+env/
+myenv/
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# =========================
+# Jupyter / Notebooks
+# =========================
+.ipynb_checkpoints
+
+# =========================
+# Virtual Envs (all names)
+# =========================
+.venv*/
+venv*/
+ENV*/
+
+# =========================
+# ML / Data
+# =========================
+*.pt
+*.pth
+*.onnx
+*.h5
+*.hdf5
+*.joblib
+*.pickle
+*.pkl
+*.sav
+data/*.csv
+data/*.db
+!data/names.pkl
+!data/face_encodings.pkl
+!label_encoder.joblib
+!label_encoder.pkl
+!sound_classifier.joblib
+!best.pt
+!last.pt
+!yolo11n.pt
+!yolov8n.pt
+
+# =========================
+# Datasets (large media)
+# =========================
+ESC-50/
+data/*.wav
+data/*.mp3
+data/*.flac
+*.wav
+*.mp3
+*.mp4
+!test-vid/**
+!test sound/**
+!best.pt
+
+# =========================
+# Arduino build output
+# =========================
+*.elf
+*.hex
+*.bin
+build/
+*.ino.with_bootloader.bin
+
+# =========================
+# IDE / Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vs/
+.history/
+
+# =========================
+# OS / System files
+# =========================
+Thumbs.db
+desktop.ini
+.DS_Store
+*.lnk
+*.url
+
+# =========================
+# Archives (deliverables to clients — keep out of repo)
+# =========================
+*.rar
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# =========================
+# Logs / Caches
+# =========================
+*.log
+logs/
+.cache/
+.temp/
+.tmp/
+*.cache
+
+# =========================
+# Tesseract binaries (bundled, optional include)
+# =========================
+# Tesseract-OCR/
+
+# =========================
+# Secrets
+# =========================
+.env
+.env.*
+*.env
+secrets.json
+user_data.json
+!users.json.sample
+access_control.log

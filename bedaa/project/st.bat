@@ -1,0 +1,1 @@
+python C:\Users\alaaj\Desktop\bedaa\project\test.py
