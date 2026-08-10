@@ -2,8 +2,8 @@
 
 ### تصميم وتنفيذ نظام تسجيل الحضور باستخدام التعرف على الوجوه
 
-> **Student:** Bidaa Abbas Alwan (بيداء عباس علوان)
-> **Supervisor:** Mustafa Hameed Abdul-Sada (م.م مصطفى حميد عبد السادة)
+> **Student / Client:** Bidaa Abbas Alwan
+> **Supervisor:** Mustafa Hameed Abdul-Sada
 
 ## 📋 Project Overview
 
@@ -69,12 +69,12 @@ python app.py
 
 ## 🧑‍🎓 Project Context
 
-This project is one of a series of **academic graduation projects** supervised at Imam Al-Kadhum University College, Computer Techniques Engineering Department (2024-2025). Full research papers, circuit diagrams, and documentation are included in the respective `docs/` directories.
+This project is part of a series of **academic graduation / personal portfolio projects** (Computer Techniques Engineering, 2024-2025). Full research papers, circuit diagrams, and documentation are included in the respective `docs/` directories.
 ---
 
 ## 📝 Copyright & Ownership
 
-**© 2025 Alaa Ahmed Ajeel (علاء أحمد عجيل) - All Rights Reserved**
+**© 2026 Alaa Ahmed Ajeel (علاء أحمد عجيل) - All Rights Reserved**
 
 > **Author & Designer:** Alaa Ahmed Ajeel
 > **GitHub:** [@alaajake](https://github.com/alaajake)
